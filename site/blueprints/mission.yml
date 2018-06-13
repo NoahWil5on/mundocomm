@@ -1,0 +1,15 @@
+title: Mission
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Text
+    type:  textarea
+  
+  intro:
+    label: Intro
+    type:  textarea
+  

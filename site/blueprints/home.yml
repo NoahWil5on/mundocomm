@@ -1,0 +1,180 @@
+title: Home
+
+pages: false
+
+fields:
+  subhead:
+    label: MundoComm Subtitle
+    type:  text
+
+  mission:
+    label: Our Mission
+    type:  textarea
+
+  shortcourse:
+    label: Short Course
+    type: textarea
+
+  research:
+    label: Our Research
+    type: textarea
+  
+  copyright:
+    label: Copyright
+    type: text
+
+  headerimages:
+    label: Header Images
+    type: structure
+    entry: 
+      {{background}}
+    fields:
+      background:
+        label: Background
+        type: image
+        required: true
+
+  ##### Team Members #####
+  uofr:
+    label: University of Rochester Team
+    type: structure
+    entry: >
+      {{name}}<br />
+      {{role}}<br />
+      {{profile_image}}<br />
+      {{link}}
+    fields:
+      name:
+        label: Name, Degree
+        type: text
+        required: true
+      role:
+        label: Role
+        type: text
+        required: true
+      profile_image:
+        label: Image
+        type: image
+        required: true
+      link:
+        label: Link
+        type: text
+        default: #
+  costarica:
+    label: Costa Rica Team
+    type: structure
+    entry: >
+      {{name}}<br />
+      {{role}}<br />
+      {{profile_image}}<br />
+      {{link}}
+    fields:
+      name:
+        label: Name, Degree
+        type: text
+        required: true
+      role:
+        label: Role
+        type: text
+        required: true
+      profile_image:
+        label: Image
+        type: image
+        required: true
+      link:
+        label: Link
+        type: text
+        default: #
+  dm:
+    label: Dominican Republic Team
+    type: structure
+    entry: >
+      {{name}}<br />
+      {{role}}<br />
+      {{profile_image}}<br />
+      {{link}}
+    fields:
+      name:
+        label: Name, Degree
+        type: text
+        required: true
+      role:
+        label: Role
+        type: text
+        required: true
+      profile_image:
+        label: Image
+        type: image
+        required: true
+      link:
+        label: Link
+        type: text
+        default: #
+  mexico:
+    label: Mexico Team
+    type: structure
+    entry: >
+      {{name}}<br />
+      {{role}}<br />
+      {{profile_image}}<br />
+      {{link}}
+    fields:
+      name:
+        label: Name, Degree
+        type: text
+        required: true
+      role:
+        label: Role
+        type: text
+        required: true
+      profile_image:
+        label: Image
+        type: image
+        required: true
+      link:
+        label: Link
+        type: text
+        default: #
+
+  ##### Papers #####
+  papers: 
+    label: Publications
+    type: structure
+    entry: >
+      {{citation}}<br />
+      {{link}}
+    fields:
+      citation:
+        label: Citation
+        type: textarea
+        required: true
+      link:
+        label: URL
+        type: text
+        required: true
+
+  ##### Missions Around The World #####
+  missions:
+    label: Missions
+    type: structure
+    entry: >
+      {{name}}<br />
+      {{url}}<br />
+      {{lat}}<br />
+      {{lng}}<br />
+    fields:
+      name:
+        label: Name of Location
+        type: text
+        required: true
+      url:
+        label: Page
+        type: page
+      lat:
+        label: Latitude
+        type: text
+        required: true
+      lng:
+        label: Longitude
+        type: text
+        required: true

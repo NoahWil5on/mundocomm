@@ -1,0 +1,241 @@
+Title: Home
+
+----
+
+Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
+
+----
+
+Text: 
+
+## Get started
+
+- Go to the (link: panel text: Panel) to give Kirby's admin interface a try
+- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
+- Follow (twitter: @getkirby) on Twitter for updates
+- Visit the (link: http://forum.getkirby.com text: forum) to connect with other Kirby users
+- Sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter
+- (link: http://getkirby.com/support text: Get in contact) if you need support.
+
+**Have fun with Kirby!**
+
+----
+
+Myimage: 
+
+----
+
+Image: 
+
+----
+
+Missions: 
+
+- 
+  name: San José, Costa Rica
+  url: https://www.google.com
+  src: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4014390.2875911924!2d-86.17207699514364!3d10.711095129494591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0e342c50d15c5%3A0xff8eac296443e836!2sSan+Jos%C3%A9+Province%2C+Costa+Rica!5e0!3m2!1sen!2sus!4v1492634424781'
+  lat: "9.9281"
+  lng: "-84.0907"
+- 
+  name: Bohechío, Dominican Republic
+  url: ""
+  src: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3868213.491664125!2d-73.23046967159026!3d18.773527162402942!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8eb06fee312ec03b%3A0x4b7f61032633a52f!2sBohech%C3%ADo%2C+Dominican+Republic!5e0!3m2!1sen!2sus!4v1492632884575'
+  lat: "18.7744"
+  lng: "-70.9889"
+- 
+  name: Catacamas, Honduras
+  url: ""
+  src: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7898522.527678505!2d-90.37014485721015!3d14.84206052155594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f6c72587864cf47%3A0xc16a7b9815181c1b!2sCatacamas%2C+Honduras!5e0!3m2!1sen!2sus!4v1492633028570'
+  lat: "14.8437"
+  lng: "-85.8793"
+- 
+  name: Moca, Dominican Republic
+  url: ""
+  src: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3822493.891714946!2d-73.23634014620856!3d20.673476518679035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8eb1d72aa6201ce1%3A0x810944626e39e693!2sMoca+56000%2C+Dominican+Republic!5e0!3m2!1sen!2sus!4v1492633660982'
+  lat: "19.3892"
+  lng: "-70.5235"
+- 
+  name: Punta Arenas, Costa Rica
+  url: ""
+  src: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1005942.4150498507!2d-85.38243453231841!3d9.978596060097507!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa02eb96dada6b7%3A0x3f48bd110f83d5ec!2sPuntarenas+Province%2C+Punta+Arenas%2C+Costa+Rica!5e0!3m2!1sen!2sus!4v1492634257727'
+  lat: "18.5820"
+  lng: "-68.4055"
+- 
+  name: Querétaro, México
+  url: ""
+  src: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15172144.788271716!2d-104.52289492944959!3d21.813640410397497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d344d16144705f%3A0x9146b1c4a44869bb!2sQuer%C3%A9taro%2C+Mexico!5e0!3m2!1sen!2sus!4v1492634355162'
+  lat: "20.3888"
+  lng: "-100.3899"
+
+----
+
+Shortcourse: MundoComm team members and faculty meet twice a year at the "Universidad de Ciencias Médicas" UCIMED in San José, Costa Rica for weeklong training sessions. These sessions are focused on topics relating to Maternal Health and the use of ICT to address challenges in delivering maternal and child health services.
+
+----
+
+Subhead: An innovative training program in Latin America for maternal health improvement.
+
+----
+
+Mission: The overall aim of the MundoComm initiative is to develop an innovative training program that enhances the ability of community-based field teams in Latin America to use Information Community Technology for maternal health improvement. ICT technologies have rapidly gained visibility within maternal and child global health communities, and growing evidence indicates that ICT interventions can significantly improve maternal health in lower- and middle-income countries.
+
+----
+
+Research: Our research component, supplement the overall mission for MundoComm. This research aims to understand multilevel household and community factors affecting maternal health and how they could be impacted by community oriented technology changes. The work is being conducted in Honduras, Costa Rica, and the Dominican Republic to learn more about maternal health and ICTs in the locations they serve.
+
+----
+
+Recruitment: Applications for 2017 opportunities with MundoComm are now being accepted! If you want to be part of our exciting efforts, click the link below!
+
+----
+
+Papers: 
+
+- 
+  citation: |
+    McIntosh, S., Pérez-Ramos, J. G., David, T., Demment, M. M., Avendaño, E., Ossip, D. J., & De Ver Dye, T. (2017).
+    A globally networked hybrid approach to public health capacity training for maternal health professionals
+    in low and middle income countries. Global Health Research and Policy, 2(1), 8.
+  link: >
+    https://ghrp.biomedcentral.com/articles/10.1186/s41256-017-0027-x
+- 
+  citation: |
+    McIntosh, S., Pérez-Ramos, J., Demment, M. M., Vega, C. V., Avendaño, E., Ossip, D. J., & Dye, T. D. (2016).
+    Development and Implementation of Culturally Tailored Offline Mobile Health Surveys. JMIR public health and
+    surveillance, 2(1).
+  link: >
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4911512/
+- 
+  citation: |
+    Ossip, D.J., Avendaño, E., McIntosh, S., Perez-Ramos, J., David, T., Demment, M., Miller, L., Benchoam,
+    R. and Dye, T., 2016. MundoComm: Information communication technology for maternal health in
+    Costa Rica and Latin America. Annals of Global Health, 82(3), p.595.
+  link: >
+    http://www.annalsofglobalhealth.org/article/S2214-9996(16)30589-6/abstract
+
+----
+
+Footer: 
+
+----
+
+Copyright: Copyright &copy; MundoComm 2017
+
+----
+
+Uofr: 
+
+- 
+  name: Timothy Dye, PHD
+  image: tdye.jpg
+  role: Principal Investigator
+  profile_image: tdye.jpg
+  link: >
+    https://www.urmc.rochester.edu/profiles/display/36082083
+- 
+  name: Deborah J. Ossip, PhD
+  role: Co-Principal Investigator
+  image: dossip.jpg
+  profile_image: dossip.jpg
+  link: >
+    https://www.urmc.rochester.edu/people/20023713-deborah-j-ossip
+- 
+  name: José G. Pérez Ramos, MPH
+  role: Senior Project Coordinator
+  image: jramos.jpg
+  profile_image: jramos.jpg
+  link: '#'
+- 
+  name: Tamala David, PhD
+  role: Investigator
+  image: tdavid.jpg
+  profile_image: tdavid.jpg
+  link: '#'
+- 
+  name: Scott McIntosh, PhD
+  role: Investigator
+  image: smcintosh.jpg
+  profile_image: smcintosh.jpg
+  link: >
+    https://www.urmc.rochester.edu/profiles/display/935907
+
+----
+
+Costarica: 
+
+- 
+  name: Esteban Avendaño, MD, MPH
+  role: Principal Investigator
+  image: eavendano.png
+  profile_image: eavendano.png
+  link: '#'
+- 
+  name: Carmen DiMare, MD, MPH
+  role: Investigator
+  image: cdimare.png
+  profile_image: cdimare.png
+  link: '#'
+- 
+  name: Edén Galán Rodas, MD
+  role: Faculty
+  image: erodas.jpg
+  profile_image: erodas.jpg
+  link: '#'
+- 
+  name: Daniela Flores Golfín
+  role: 'Administrative Assistant - Field Coordinator'
+  image: fgolfin.jpg
+  profile_image: fgolfin.jpg
+  link: '#'
+
+----
+
+Dm: 
+
+- 
+  name: Zahira Quiñones, MD, MPH
+  role: 'Educational Core Leader & Investigator'
+  image: zquinones.jpg
+  profile_image: zquinones.jpg
+  link: '#'
+- 
+  name: José Javier "JJ" Sánchez, MD
+  role: 'Educational Core Leader & Investigator'
+  image: jsanchez.jpg
+  profile_image: jsanchez.jpg
+  link: '#'
+
+----
+
+Mexico: 
+
+- 
+  name: Hilda Romero Zepeda, PhD
+  role: Faculty
+  image: hzepeda.jpg
+  profile_image: hzepeda.jpg
+  link: '#'
+
+----
+
+Headerimages: 
+
+- 
+  image: image_01.jpg
+  background: image_01.jpg
+- 
+  image: image_02.jpg
+  background: image_02.jpg
+- 
+  image: image_03.jpg
+  background: image_03.jpg
+- 
+  image: image_04.jpg
+  background: image_04.jpg
+- 
+  image: image_05.jpg
+  background: image_05.jpg
+- 
+  image: image_06.jpg
+  background: image_06.jpg
